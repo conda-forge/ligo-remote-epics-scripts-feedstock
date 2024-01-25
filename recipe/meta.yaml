@@ -10,7 +10,7 @@ source:
   sha256: 6a40f38c1c6ccdeee646caf1ca34399d1a302db942e7cfcb110fa79f6631556e
 
 build:
-  number: 1
+  number: 2
   skip: true  # [win or osx]
 
 requirements:
@@ -38,3 +38,4 @@ extra:
   recipe-maintainers:
     - duncanmmacleod
     - pthomasj
+    - evonreis
